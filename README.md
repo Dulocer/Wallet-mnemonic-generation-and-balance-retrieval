@@ -10,5 +10,5 @@ A simple Python program will generate two files after running: "wallet with bala
 # The number of wallets that can be generated in one run
 
 ```python
-# Number of wallets to generate
-num_wallets = 50000  # Here you can set the number of wallets to be generated
+# Number of wallets to generate(The actual number of records is twice the set value)
+num_wallets = 5000  # Here you can set the number of wallets to be generated
