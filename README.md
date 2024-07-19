@@ -19,12 +19,12 @@ pip install mnemonic bip32utils tqdm
 # Thank you for your use
 If this app really helps you, could you give me some tokens to buy chips?
 
-XMR
-467uP2E4Q6KPAHgxcD9qjpDDJyuqLds6vS7SSwmGdxYLdqFqpzQiEdVEx3fUd7kfCCJKDTTSa8GShUbZyHARwWYcJNsnLGz
-
-USDT（Arbitrum）
-0xA9baaDe9dB4B6AA2237BD46bd40bd7849De5D66b
-
-USDC（Arbitrum）
-0xA9baaDe9dB4B6AA2237BD46bd40bd7849De5D66b
+    XMR
+    467uP2E4Q6KPAHgxcD9qjpDDJyuqLds6vS7SSwmGdxYLdqFqpzQiEdVEx3fUd7kfCCJKDTTSa8GShUbZyHARwWYcJNsnLGz
+    
+    USDT（Arbitrum）
+    0xA9baaDe9dB4B6AA2237BD46bd40bd7849De5D66b
+    
+    USDC（Arbitrum）
+    0xA9baaDe9dB4B6AA2237BD46bd40bd7849De5D66b
 
